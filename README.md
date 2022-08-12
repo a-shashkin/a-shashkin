@@ -52,3 +52,12 @@
 </tr>
 </tbody>
 </table>
+
+### My skill development plans:
+- I plan to learn automated API testing and mobile testing. Currently have my eyes on rest-assured (API) and Appium (mobile).
+
+### My not-job-related interests:
+- :book: Books. Predominantly sci-fi.
+- :video_game: Video games. Actions, RTS and some RPGs tend to be my favourites.
+- :notebook_with_decorative_cover: Anime and manga.
+- :fountain_pen: Fan fiction.
