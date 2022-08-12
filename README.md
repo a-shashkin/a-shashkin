@@ -1,8 +1,8 @@
 <p align="center">
-<h3> Hello there! 👋 Welcome to my GitHub page. </h3>
+<h3 align="center"> Hello there! 👋 Welcome to my GitHub page. </h3>
 </p>
 <p align="center">
-<h3>My name is Alexander. I am a QA Engineer from Ulyanovsk, Russia.</h3>
+<h3 align="center">My name is Alexander. I am a QA Engineer from Ulyanovsk, Russia.</h3>
 </p>
 
 - :moneybag: Currently I am employed by [SimbirSoft LLC company](https://www.simbirsoft.com/en/), which creates custom software.
