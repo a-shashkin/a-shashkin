@@ -53,8 +53,8 @@
 </tbody>
 </table>
 
-### My latest project
-[UI tests for HH.ru web site](https://github.com/a-shashkin/hh-project-tests)
+### My latest projects
+#### [UI tests for HH.ru web site](https://github.com/a-shashkin/hh-project-tests)
 
 ### My skill development plans:
 - I plan to learn automated API testing and mobile testing. Currently have my eyes on rest-assured (API) and Appium (mobile).
