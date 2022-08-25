@@ -53,6 +53,9 @@
 </tbody>
 </table>
 
+### My latest project
+[UI tests for HH.ru web site](https://github.com/a-shashkin/hh-project-tests)
+
 ### My skill development plans:
 - I plan to learn automated API testing and mobile testing. Currently have my eyes on rest-assured (API) and Appium (mobile).
 
@@ -61,3 +64,6 @@
 - :video_game: Video games. Actions, RTS and some RPGs tend to be my favourites.
 - :notebook_with_decorative_cover: Anime and manga.
 - :fountain_pen: Fan fiction.
+
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-shashkin&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
