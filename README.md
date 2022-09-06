@@ -9,7 +9,7 @@
 - 🏆 I have over 6 years of experience as a QA engineer.
 - :gem: I possess an ISTQB Foundation Level certificate.
 - :iphone::computer: I have experience in testing frontend, backend, iOS and Android.
-- :man_student:I am studying to become a fullstack QA engineer and be able to automate tests.
+- :man_student: I am studying to become a fullstack QA engineer and be able to automate tests.
 
 ### My manual testing technology stack
 <table>
