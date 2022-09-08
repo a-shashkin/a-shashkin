@@ -66,5 +66,8 @@
 - :notebook_with_decorative_cover: Anime and manga.
 - :fountain_pen: Fan fiction.
 
+### My contacts:
+[My Telegram - @AShashkin](https://t.me/AShashkin)
+
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-shashkin&theme=chartreuse-dark&show_icons=true&locale=en" alt="alexstark-spb" /></p>
