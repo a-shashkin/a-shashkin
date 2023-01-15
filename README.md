@@ -57,6 +57,7 @@
 ### My latest projects
 #### - [UI tests for HH.ru web site](https://github.com/a-shashkin/hh-project-tests)
 #### - [API tests for JSONPlaceholder web site](https://github.com/a-shashkin/jsonplaceholder-api-tests)
+#### - [Mobile tests for Calcu app on Android](https://github.com/a-shashkin/calcu-tests)
 
 ### My skill development plans:
 - I plan to learn automated API testing and mobile testing. Currently have my eyes on rest-assured (API) and Appium (mobile).
