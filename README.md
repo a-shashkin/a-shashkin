@@ -42,6 +42,7 @@
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg" width="40" height="40"><br>JUnit5</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://user-images.githubusercontent.com/47101779/210963191-4a3df255-fcac-418b-a903-eada87d84120.png" width ="40" height="40"><br>Selenide</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://avatars.githubusercontent.com/u/26328913?s=280&v=4" width="40" height="40"><br>Selenoid</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://seeklogo.com/images/A/appium-logo-7A2DD5B4E3-seeklogo.com.png" width="40" height="40"><br>Appium</td>
 </tr>
 <tr>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg" width="40" height="40"><br>Jenkins</td>
@@ -50,6 +51,7 @@
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://starchenkov.pro/qa-guru/img/skills/Allure_EE.svg" width="40" height="40"><br>Allure TestOps</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="40" height="40"><br>Telegram Bot</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://starchenkov.pro/qa-guru/img/skills/Rest-Assured.svg" width="40" height="40"><br>Rest-Assured</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://img.informer.com/icons_mac/png/128/531/531471.png" width="40" height="40"><br>Appium Inspector</td>
 </tr>
 </tbody>
 </table>
