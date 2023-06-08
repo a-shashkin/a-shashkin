@@ -6,7 +6,7 @@
 </p>
 
 - :moneybag: Currently I am employed by [SimbirSoft LLC company](https://www.simbirsoft.com/en/), which creates custom software.
-- 🏆 I have over 6 years of experience as a QA engineer.
+- 🏆 I have over 7 years of experience as a QA engineer.
 - :gem: I possess an ISTQB Foundation Level certificate.
 - :iphone::computer: I have experience in testing frontend, backend, iOS and Android.
 - :man_student: I am studying to become a fullstack QA engineer and be able to automate tests.
