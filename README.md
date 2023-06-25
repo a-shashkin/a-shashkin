@@ -62,7 +62,7 @@
 #### - [Mobile tests for Calcu app on Android](https://github.com/a-shashkin/calcu-tests)
 
 ### My skill development plans:
-- I plan to learn automated API testing and mobile testing. Currently have my eyes on rest-assured (API) and Appium (mobile).
+- I plan to delve deeper into test automation. Currently experimenting with Cypress framework and advanced test automation with Java.
 
 ### My not-job-related interests:
 - :book: Books. Predominantly sci-fi.
