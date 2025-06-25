@@ -77,7 +77,7 @@
 #### - [Mobile tests for Calcu app on Android](https://github.com/a-shashkin/calcu-tests)
 
 ### My skill development plans:
-- I plan to delve deeper into test automation. Currently experimenting with Cypress framework and advanced test automation with Java.
+- I plan to delve deeper into test automation. Currently expanding knowledge about test automation in Java and Kotlin, with potential interest in automation using Python.
 
 ### My not-job-related interests:
 - :book: Books. Predominantly sci-fi.
