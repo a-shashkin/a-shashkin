@@ -2,14 +2,14 @@
 <h3 align="center"> Hello there! 👋 Welcome to my GitHub page. </h3>
 </p>
 <p align="center">
-<h3 align="center">My name is Alexander. I am a QA Engineer from Ulyanovsk, Russia.</h3>
+<h3 align="center">My name is Alexander. I am a fullstack QA Engineer from Ulyanovsk, Russia.</h3>
 </p>
 
 - :moneybag: Currently I am employed by [SimbirSoft LLC company](https://www.simbirsoft.com/en/), which creates custom software.
-- 🏆 I have over 7 years of experience as a QA engineer.
+- 🏆 I have over 9 years of experience as a QA engineer.
 - :gem: I possess an ISTQB Foundation Level certificate.
 - :iphone::computer: I have experience in testing frontend, backend, iOS and Android.
-- :man_student: I am studying to become a fullstack QA engineer and be able to automate tests.
+- :man_student: I am experimenting and expanding my firld of knowledge in automated testing.
 
 ### My manual testing technology stack
 <table>
@@ -27,7 +27,7 @@
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://i.pinimg.com/originals/32/a0/3a/32a03aee0c76419ec5bde950a62883bc.png" width="40" height="40"><br>MSSQL</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" width="40" height="40"><br>DBeaver</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://secureanycloud.com/wp-content/uploads/sites/33/2016/04/testlink-logo1.png" width="40" height="40"><br>TestLink</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png" width="40" height="40"><br>Confluence</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" width="40" height="40"><br>Confluence</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://brandslogos.com/wp-content/uploads/images/large/elastic-kibana-logo.png" width="40" height="40"><br>Kibana</td>
 </tbody>
 </table>
@@ -42,14 +42,15 @@
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="40" height="40"><br>JUnit5</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://user-images.githubusercontent.com/47101779/210963191-4a3df255-fcac-418b-a903-eada87d84120.png" width ="40" height="40"><br>Selenide</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://avatars.githubusercontent.com/u/26328913?s=280&v=4" width="40" height="40"><br>Selenoid</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://seeklogo.com/images/A/appium-logo-7A2DD5B4E3-seeklogo.com.png" width="40" height="40"><br>Appium</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://avatars.githubusercontent.com/u/3221291?s=280&v=4" width="40" height="40"><br>Appium</td>
 </tr>
 <tr>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="40" height="40"><br>Jenkins</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"><br>Github</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://img.stackshare.io/service/40202/default_48abe5208fc58ffa608d65592ad0f588ebc04746.png" width="40" height="40"><br>Allure Report</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://img.stackshare.io/service/40438/default_a9d9f8f8546d65b5f12a32106e6d03e6921e11fa.png" width="40" height="40"><br>Allure TestOps</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="40" height="40"><br>Telegram Bot</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/user-attachments/assets/24a5906d-3637-4476-be65-d8c6a0117ad1" width="40" height="40"><br>Allure Report</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/user-attachments/assets/8a195bae-4a86-43e8-a45c-fda52837b593" width="40" height="40"><br>Allure TestOps</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="40" height=![appium logo](https://github.com/user-attachments/assets/5140cd50-16c9-41e2-a569-20bad84d8caa)
+"40"><br>Telegram Bot</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://media.trustradius.com/product-logos/M1/My/B8NQDTOWGI16.PNG" width="40" height="40"><br>Rest-Assured</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://img.informer.com/icons_mac/png/128/531/531471.png" width="40" height="40"><br>Appium Inspector</td>
 </tr>
