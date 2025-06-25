@@ -51,7 +51,7 @@
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://avatars.githubusercontent.com/u/3221291?s=280&v=4" width="40" height="40"><br>Appium</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/user-attachments/assets/36a82437-0e95-4f41-98c9-5af4c7b20083" width="40" height="40"><br>Kotlin</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/user-attachments/assets/00a1e90e-63cd-4ea8-aa9b-1b21e80f12d0" width="40" height="40"><br>Kaspresso</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/user-attachments/assets/a7afbe16-3e6d-48ec-a53a-1ad0fa87dcbc" width="40" height="40"><br>Visual Studio Code</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/user-attachments/assets/a7afbe16-3e6d-48ec-a53a-1ad0fa87dcbc" width="40" height="40"><br>VS Code</td>
 </tr>
 <tr>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="40" height="40"><br>Jenkins</td>
