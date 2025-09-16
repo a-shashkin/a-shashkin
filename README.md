@@ -28,7 +28,8 @@
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://developer.asustor.com/uploadIcons/0020_96009_1552971827_pgadmin-icon.png" width="40" height="40"><br>PgAdmin</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://i.pinimg.com/originals/32/a0/3a/32a03aee0c76419ec5bde950a62883bc.png" width="40" height="40"><br>MSSQL</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" width="40" height="40"><br>DBeaver</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://secureanycloud.com/wp-content/uploads/sites/33/2016/04/testlink-logo1.png" width="40" height="40"><br>TestLink</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/user-attachments/assets/be696e55-415d-470a-8d53-056dc84b48f4" width="40" height="40"><br>TestLink</td>
+
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" width="40" height="40"><br>Confluence</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://brandslogos.com/wp-content/uploads/images/large/elastic-kibana-logo.png" width="40" height="40"><br>Kibana</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/user-attachments/assets/ffae876b-3fe5-4f88-9382-5ee567e7d08a" width="40" height="40"><br>Redis</td>
@@ -44,7 +45,8 @@
 <tr>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40"><br>IntelliJ IDEA</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40" height="40"><br>Java</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://static-00.iconduck.com/assets.00/gradle-icon-256x256-jq2wrvfo.png" width="40" height="40"><br>Gradle</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/user-attachments/assets/4cb6f472-82f6-4a4d-b1e5-1a4c17c73bb7" width="40" height="40"><br>Gradle</td>
+
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="40" height="40"><br>JUnit5</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://user-images.githubusercontent.com/47101779/210963191-4a3df255-fcac-418b-a903-eada87d84120.png" width ="40" height="40"><br>Selenide</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://avatars.githubusercontent.com/u/26328913?s=280&v=4" width="40" height="40"><br>Selenoid</td>
